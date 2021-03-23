@@ -2,7 +2,6 @@
 
 let link = document.getElementById('wcc')
 let boton = document.getElementById('btn');
-// let attri = getAttributesNames(link);
 
 boton.addEventListener('click', getAttributes );
 function getAttributes(){
